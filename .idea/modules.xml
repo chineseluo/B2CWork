@@ -10,7 +10,6 @@
       <module fileurl="file://$PROJECT_DIR$/B2CManager/B2CManagerService/B2CManagerService.iml" filepath="$PROJECT_DIR$/B2CManager/B2CManagerService/B2CManagerService.iml" />
       <module fileurl="file://$PROJECT_DIR$/B2CManager/B2CManagerWeb/B2CManagerWeb.iml" filepath="$PROJECT_DIR$/B2CManager/B2CManagerWeb/B2CManagerWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/B2CParent/B2CParent.iml" filepath="$PROJECT_DIR$/B2CParent/B2CParent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myBatisProject/myBatisProject.iml" filepath="$PROJECT_DIR$/myBatisProject/myBatisProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisPro/mybatisPro.iml" filepath="$PROJECT_DIR$/mybatisPro/mybatisPro.iml" />
     </modules>
   </component>
