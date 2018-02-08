@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/B2CCommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/B2CManager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/B2CManager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/B2CManager/B2CManagerDao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/B2CManager/B2CManagerInterface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/B2CManager/B2CManagerPojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/B2CManager/B2CManagerPojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/B2CManager/B2CManagerService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/B2CManager/B2CManagerWeb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/B2CManager/B2CManagerWeb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/B2CManager/B2CManagerWeb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/B2CParent" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

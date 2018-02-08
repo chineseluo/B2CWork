@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/B2CCommon/B2CCommon.iml" filepath="$PROJECT_DIR$/B2CCommon/B2CCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B2CManager/B2CManager.iml" filepath="$PROJECT_DIR$/B2CManager/B2CManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B2CManager/B2CManagerDao/B2CManagerDao.iml" filepath="$PROJECT_DIR$/B2CManager/B2CManagerDao/B2CManagerDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B2CManager/B2CManagerInterface/B2CManagerInterface.iml" filepath="$PROJECT_DIR$/B2CManager/B2CManagerInterface/B2CManagerInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B2CManager/B2CManagerPojo/B2CManagerPojo.iml" filepath="$PROJECT_DIR$/B2CManager/B2CManagerPojo/B2CManagerPojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B2CManager/B2CManagerService/B2CManagerService.iml" filepath="$PROJECT_DIR$/B2CManager/B2CManagerService/B2CManagerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B2CManager/B2CManagerWeb/B2CManagerWeb.iml" filepath="$PROJECT_DIR$/B2CManager/B2CManagerWeb/B2CManagerWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B2CParent/B2CParent.iml" filepath="$PROJECT_DIR$/B2CParent/B2CParent.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="B2CManagerWeb:war">
+    <output-path>$PROJECT_DIR$/B2CManager/B2CManagerWeb/target</output-path>
+    <root id="archive" name="B2CManager-Web.war">
+      <element id="artifact" artifact-name="B2CManagerWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

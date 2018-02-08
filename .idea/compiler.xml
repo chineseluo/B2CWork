@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="B2CCommon" />
+        <module name="B2CManagerDao" />
+        <module name="B2CManagerInterface" />
+        <module name="B2CManagerPojo" />
+        <module name="B2CManagerService" />
+        <module name="B2CManagerWeb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="B2CCommon" target="1.7" />
+      <module name="B2CManager" target="1.7" />
+      <module name="B2CManagerDao" target="1.7" />
+      <module name="B2CManagerInterface" target="1.7" />
+      <module name="B2CManagerPojo" target="1.7" />
+      <module name="B2CManagerService" target="1.7" />
+      <module name="B2CManagerWeb" target="1.7" />
+      <module name="B2CParent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
