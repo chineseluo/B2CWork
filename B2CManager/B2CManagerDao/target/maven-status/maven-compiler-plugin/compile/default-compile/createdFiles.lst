@@ -1,1 +1,11 @@
-online\work\App.class
+online\work\mapper\TbItemMapper.class
+online\work\mapper\TbContentCategoryMapper.class
+online\work\mapper\TbOrderShippingMapper.class
+online\work\mapper\TbContentMapper.class
+online\work\mapper\TbItemDescMapper.class
+online\work\mapper\TbOrderMapper.class
+online\work\mapper\TbItemParamItemMapper.class
+online\work\mapper\TbUserMapper.class
+online\work\mapper\TbOrderItemMapper.class
+online\work\mapper\TbItemCatMapper.class
+online\work\mapper\TbItemParamMapper.class
