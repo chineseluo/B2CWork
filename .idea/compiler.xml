@@ -12,6 +12,7 @@
         <module name="B2CManagerPojo" />
         <module name="B2CManagerService" />
         <module name="B2CManagerWeb" />
+        <module name="myBatisProject" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +24,7 @@
       <module name="B2CManagerService" target="1.7" />
       <module name="B2CManagerWeb" target="1.7" />
       <module name="B2CParent" target="1.7" />
+      <module name="myBatisProject" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
